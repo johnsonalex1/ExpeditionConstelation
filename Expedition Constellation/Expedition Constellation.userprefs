@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Teamwork/Teamwork/Assets/Game Assets/Scripts/PlayerScripts/Player1Control.cs">
+    <Files>
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/MainMenu/MainMenuEffects.cs" Line="15" Column="33" />
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/Scripts/Etc Scripts/LevelCompletionStats.cs" Line="42" Column="33" />
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/Scripts/Etc Scripts/EndScript.cs" Line="98" Column="21" />
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/MainMenu/MainMenuGUI.cs" Line="10" Column="35" />
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/Scripts/Puzzle_Scripts/ExitDoor.cs" Line="20" Column="24" />
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/Scripts/PlayerScripts/Player1Control.cs" Line="60" Column="52" />
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/Scripts/PlayerScripts/PlayerControl.cs" Line="231" Column="28" />
+      <File FileName="../../Teamwork/Teamwork/Assets/Game Assets/Scripts/PlayerScripts/Player2Control.cs" Line="60" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
